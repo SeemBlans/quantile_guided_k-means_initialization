@@ -1,0 +1,20 @@
+{
+  "dataset": "Final_Grades_Dataset_Cleaned.xlsx",
+  "observations": 10100,
+  "features": [
+    "PRELIM",
+    "MID-TERM",
+    "SEMI-FINAL",
+    "FINAL"
+  ],
+  "K": 3,
+  "trials": 10,
+  "preprocessing": "StandardScaler fitted once on four features",
+  "max_iter": 300,
+  "tolerance": 0.0001,
+  "base_seed": 20261023,
+  "distance_definition": "one point-to-centroid vector distance; clustering count includes final assignment/SSE pass",
+  "memory_definition": "sampled process RSS peak; approximate",
+  "silhouette": "Euclidean on standardized features; reproducible sample up to 5000",
+  "quantile_algorithm_status": "pending explicit multivariate method decision"
+}

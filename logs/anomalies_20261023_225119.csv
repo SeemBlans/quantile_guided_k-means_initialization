@@ -1,0 +1,11 @@
+method,trial,seed,anomaly_type,details,handling
+Quantile-Guided,1,20261023,method_not_finalized,Quantile-Guided initialization is not finalized. See README.md for options.,do not compare until algorithm is approved
+Quantile-Guided,2,20261024,method_not_finalized,Quantile-Guided initialization is not finalized. See README.md for options.,do not compare until algorithm is approved
+Quantile-Guided,3,20261025,method_not_finalized,Quantile-Guided initialization is not finalized. See README.md for options.,do not compare until algorithm is approved
+Quantile-Guided,4,20261026,method_not_finalized,Quantile-Guided initialization is not finalized. See README.md for options.,do not compare until algorithm is approved
+Quantile-Guided,5,20261027,method_not_finalized,Quantile-Guided initialization is not finalized. See README.md for options.,do not compare until algorithm is approved
+Quantile-Guided,6,20261028,method_not_finalized,Quantile-Guided initialization is not finalized. See README.md for options.,do not compare until algorithm is approved
+Quantile-Guided,7,20261029,method_not_finalized,Quantile-Guided initialization is not finalized. See README.md for options.,do not compare until algorithm is approved
+Quantile-Guided,8,20261030,method_not_finalized,Quantile-Guided initialization is not finalized. See README.md for options.,do not compare until algorithm is approved
+Quantile-Guided,9,20261031,method_not_finalized,Quantile-Guided initialization is not finalized. See README.md for options.,do not compare until algorithm is approved
+Quantile-Guided,10,20261032,method_not_finalized,Quantile-Guided initialization is not finalized. See README.md for options.,do not compare until algorithm is approved
